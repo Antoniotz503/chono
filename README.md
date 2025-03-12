@@ -5,7 +5,7 @@ Cryptocurrency market trades aggregator./
 
 Currently supporting Kucoin, BitMEX, Bitfinex, Binance, Coinbase, Bitstamp, Deribit, Huobi, Okex, Hitbtc, Poloniex, Bybit, Bitget, Bitunix, Mexc, Gate.io and Crypto.com ([see src/exchanges/](src/exchanges) for detail)
 
-![screenshot](https://i.imgur.com/nHJxsdL.gif)
+![screenshot](https://img.icons8.com/?size=96&id=cA6IhNFdjYHc&format=png)
 
 ## What it does
 
